@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cordell! <br/><a href="https://github.com/joshmadakor1">Aspiring IAM Specialist</a>, <a href="www.linkedin.com/in/cordell-carrington-b327b6259">It Helpdesk Support</a>, <a href="https://www.youtube.com">YouTuber</a></h1>
+<h1>Hi, I'm Cordell! <br/><a href="[https://github.com/dello75/dello75]">Aspiring IAM Specialist</a>, <a href="www.linkedin.com/in/cordell-carrington-b327b6259">IT Helpdesk Support</a>
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
